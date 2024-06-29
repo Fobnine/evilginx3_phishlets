@@ -1,13 +1,12 @@
+**Working Google Phishlets**
+https://youtu.be/W35x1REC3uQ
+
 **Evilginx 3 Phishlets Repository**
 _Introduction_
 Welcome to the Evilginx 3 Phishlets repository. This repository contains a collection of phishlets for Evilginx 3, a powerful man-in-the-middle attack framework used for phishing and credential harvesting.
 
 _Prerequisites_
 Before using this repository, ensure you have the following:
-
-Evilginx 3 installed and configured on your server
-Basic knowledge of DNS and domain setup
-Familiarity with phishing techniques and security protocols
 
 _Contact_
 For any questions or support, please reach out via Telegram: @fob_nine
